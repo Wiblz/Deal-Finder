@@ -42,7 +42,7 @@ service-identity==17.0.0
 six==1.11.0
 slimit==0.8.1
 stem==1.6.0
-Twisted==18.7.0
+Twisted==19.7.0
 urllib3==1.23
 w3lib==1.19.0
 zope.interface==4.5.0
